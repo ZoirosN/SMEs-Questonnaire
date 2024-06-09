@@ -15,7 +15,7 @@ By using the code provided here, you agree to the following terms:
 1. The code provided is offered as-is, without any warranty, expressed or implied.
 2. You are free to use, modify, and distribute the code for both personal and commercial purposes.
 3. If you use this code in your project (commercial or non-commercial), you are required to provide proper attribution the original author.
-4. Attribution should include a link to the original source repository [URL](https://github.com/ZoirosN/SMEs-Questonnaire)
+4. Attribution should include a link to the original source repository [https://github.com/ZoirosN/SMEs-Questonnaire](https://github.com/ZoirosN/SMEs-Questonnaire)
 5. You are encouraged (but not required) to notify us on zoiros13@gmail.com when you use this code in your project. It helps in acknowledging contributions and improvements.
 
 By using this code, you agree to comply with these terms.
