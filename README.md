@@ -22,9 +22,6 @@ If you wish to contribute or explore the source code:
 2. Open the project in NetBeans IDE.
 3. Make changes or explore the code as needed.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Disclaimer
 
