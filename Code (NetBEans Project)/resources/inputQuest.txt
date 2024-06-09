@@ -1,0 +1,101 @@
+1) Has the organization developed an appropriate documented policy and implementation procedures for 
+the necessary training and awareness of staff on information security and cybersecurity issues?
+~
+2) Does the organization conduct regular cybersecurity awareness training programs for staff, 
+tailored to their roles and levels of technical expertise (e.g., employees, managers)?
+~
+3) Has the organization developed a documented policy and implementation procedures on 
+the security and protection of its information systems against malware infection?
+~
+4) Does the organization use anti-malware software on all workstations and servers, 
+managed centrally and updated regularly?
+~
+5) Does the organization ensure that an automatic malware scan is performed on portable storage 
+devices (e.g., USB drives, external hard drives) when they are connected to devices?
+~
+6) Does the organization implement technologies to protect against spam at all entry and exit points 
+of its infrastructure (e.g., firewalls, email servers, internet servers, proxy servers, 
+remote access workstations, laptops, mobile devices)?
+~
+7) Has the organization developed a documented policy and implementation procedures on 
+the secure configuration of equipment, operating systems, and applications?
+~
+8) Does the organization have an approved secure configuration procedure based on internationally accepted 
+standards and guidelines for the operating systems of workstations, servers, and network devices?
+~
+9) Does the organization have an approved procedure for the disposal of equipment, operating systems, 
+and applications for which support from the manufacturer or provider has expired?
+~
+10) Does the organization use only the latest and most up-to-date versions for critical customer applications
+ (e.g., office software, PDF readers, web browsers, browser plug-ins, and email clients)?
+~
+11) Has the organization developed a documented policy and implementation procedures 
+regarding the secure architecture of its networks?
+~
+12) Has the organization divided its internal network into distinct sub-networks based 
+on the level of sensitivity of its business areas (network segmentation)?
+~
+13) Does the organization apply traffic filtering between subnets to limit the flow 
+of information to that which is strictly necessary for its business needs?
+~
+14) Does the organization ensure that remote users access its internal network via VPN (Virtual Private Network) 
+using two-factor authentication and the latest encryption algorithms?
+~
+15) Is the information and consent of website visitors handled using appropriate mechanisms for 
+personal data protection (e.g., with pop-up windows or an informative banner)?
+~
+16) Does the organization have a recorded Clean Desk Policy and clear screen policy?
+~
+17) Has the organization developed a documented policy and implementation procedures regarding the backup of its
+information systems? Do these procedures include issues such as the prioritization, value, and criticality 
+of data, as well as the retention requirements for backups?
+~
+18) Has the organization ensured that backups are obtained in an automated manner from all its major information
+systems daily, appropriately combining available technologies (full, incremental, differential)?
+~
+19) Has the organization ensured that the received backups are protected by encryption in transit?
+~
+20) Does the organization conduct periodic integrity checks of the backups and data restoration tests 
+to validate the backup process?
+~
+21) Has the organization developed a documented policy and implementation procedures concerning the 
+use of cryptography in its information systems?
+~
+22) Does the organization ensure that data classified as critical or sensitive are encrypted 
+during their transmission (encryption in transit)?
+~
+23) Does the organization ensure that data classified as critical or sensitive are encrypted during their 
+storage (encryption at rest)? Such data may be located on servers, applications, and databases.
+~
+24) Does the organization ensure that VPNs and firewalls have the latest version of operating systems and 
+receive security updates and software upgrades at regular intervals in an automated manner?
+~
+25) Has the organization developed a documented policy including implementation procedures 
+on the physical security of the premises hosting its information systems?
+~
+26) Has the organization ensured that the building facilities hosting its servers (computer room)
+have control mechanisms at the external perimeter (e.g., barriers, locks, alarms) 
+for protection against unauthorized physical access?
+~
+27) Does the organization keep a list of individuals with authorization for access to the computer room?
+~
+28) Has the organization developed a documented policy and implementation procedures regarding 
+the use of cryptography in its information systems?
+
+(Note: This is a follow-up to a previous question, included to ensure all aspects are covered comprehensively.)
+~
+29) Does the organization have a documented policy for the disposal of equipment, operating systems, 
+and applications that are no longer supported by the manufacturer or provider?
+
+(Note: This question is intended to revisit any aspects that might need further elaboration.)
+~
+30) Does the organization have mechanisms in place to ensure that all user access to systems and 
+data is reviewed and updated regularly?
+
+
+
+
+
+
+
+
