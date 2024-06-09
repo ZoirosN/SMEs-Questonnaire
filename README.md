@@ -20,12 +20,9 @@ If you wish to contribute or explore the source code:
 
 1. Clone this repository.
 2. Open the project in NetBeans IDE.
-3. Make changes or explore the code as needed.
+3. Make changes or explore the code as needed, and inform us about them.
 
 
-## Disclaimer
-
-This application is provided as is, without warranty of any kind. Use it at your own risk.
 
 ---
 
