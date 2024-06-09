@@ -1,6 +1,6 @@
 # Java Application
 
-This is a Java application implemented for Windows.
+This is a Java application implemented for Windows. It is a questionnaire to evaluate the Cybersecurity Readyness and Compliance for SMEs.  
 
 ## About
 
