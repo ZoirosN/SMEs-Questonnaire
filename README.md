@@ -29,4 +29,3 @@ This application is provided as is, without warranty of any kind. Use it at your
 
 ---
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
